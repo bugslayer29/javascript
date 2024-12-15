@@ -37,6 +37,7 @@ const scorename = 33; // it is num.
 const scoreValue = 100.4; //it is also a num it doesn't effect whethter it is decimal value or integer.
 console.log(typeof scoreValue); // number
 
+
 const isLoggedin = false; // it is boolean
 console.log(typeof isLoggedin) // boolean
 const outsidetemp = null; // it is null (empty ---it's not 0)
@@ -80,7 +81,7 @@ const myFunction = function(){
 }
 
 console.log(typeof myFunction); //function
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
 
 
 
