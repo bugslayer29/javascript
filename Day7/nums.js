@@ -12,23 +12,43 @@ console.log(balance);
 //[[Prototype]] : Number
 
 // constructor : ƒ Number()
-// toExponential : ƒ toExponential()
+// toExponential : ƒ toExponential()       
 // tofixed: ƒ tofixed()
-//toLocalString : ƒ toLocalString()
-//toPrecision : ƒ toPrecision()
+// toLocalString : ƒ toLocalString()
+// toPrecision : ƒ toPrecision()
 // toString : ƒ toString()
 // valueOf : ƒ valueOf()
 
+                 
 
  console.log(balance.toString()); //100
  console.log(typeof balance.toString()); // String
- console.log( balance.toString() .length); // length of 100 is 3.
+ console.log( balance.toString() .length); // length of 100 is 3. 
 
  console.log(balance.toFixed(2)); //100.00 
  // you can use tofixed to reduce precision value like tofixed(2) is for two decimal places like 100.00.
  
  const num = 100000000;
- console.log(num.toLocaleString('en-IN'));
+ console.log(num.toLocaleString('en-IN'));  
+
+        
+
+
+
+   
+       
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+
+
+
  
 
 
